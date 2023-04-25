@@ -10,7 +10,7 @@ This GitHub repository contains data analysis and machine learning projects rela
 - Contributing
 - License
 
-##About
+## About
 Cancer is a complex disease with a wide variety of risk factors and causes. In this repository, we aim to explore the relationship between different factors and cancer incidence and to develop machine learning models to predict cancer risk and patient outcomes. Our analysis is based on publicly available data from various sources.
 
 ## Data Sources
@@ -55,4 +55,4 @@ Contributions to this project are welcome. Please submit a pull request with a c
 This project is licensed under the MIT License. Please see the LICENSE file for details.
 
 ## Contact
-If you have any questions or comments about this project, please feel free to contact us at Francisco.Sanchez@gmail.com or .
+If you have any questions or comments about this project, please feel free to contact us at borcabar@gmail.com or Francisco.Sanchez@gmail.com
