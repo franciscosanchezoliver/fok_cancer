@@ -1,0 +1,8 @@
+sentinel-env/*
+.idea/*
+notebooks/.ipynb_checkpoints/
+**/__pycache__
+*flake8.un~
+.coverage
+/reports/coverage
+secure
